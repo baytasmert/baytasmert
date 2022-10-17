@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baytasmert
 - 👀 I’m interested in artificial intelligence and data science. I am  dreaming about to be there but just starting with small steps.
-- 🌱 I’m currently learning c programming language.
-- 💞️ I’m looking for new projects to enhance my c skills, also internship opportunity would be perfect that helps me to learn faster and widely.  
+- 🌱 I’m currently learning python and java as a language and oop. Also I have deep knowledge in c programming language and idea about aurdino, c++, autoCad.
+- 💞️ I’m looking for new projects to enhance my coding skills, also internship opportunity would be perfect that helps me to learn faster and widely.  
 -  📫 You can mail me via this adress => mertbaytas@gmail.com
 
 <!---
